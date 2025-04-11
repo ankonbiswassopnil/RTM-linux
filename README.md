@@ -23,4 +23,4 @@ This repository provides a working example of a **server-side implementation** o
 
 ```bash
 git clone https://github.com/your-username/agora-rtm-linux.git
-cd agora-rtm-linux
+cd RTM-linux
